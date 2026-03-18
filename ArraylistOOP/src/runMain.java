@@ -15,12 +15,12 @@ public class runMain {
 		            dssonguyen.add(tam);
 
 		        }
-		        // b. in ra màn hình
+
 		        System.out.print("Danh sach so nguyen la: ");
 		        for ( Integer x : dssonguyen){
 		            System.out.print(x + " ");
 		        }
-		        // c. kiêểm tra bao số chẵn
+		        
 		        int tam = 0;
 		        for ( Integer x : dssonguyen){
 		            if( x % 2 == 0 ) {
