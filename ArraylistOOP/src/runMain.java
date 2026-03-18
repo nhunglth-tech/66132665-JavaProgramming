@@ -20,7 +20,7 @@ public class runMain {
 		        for ( Integer x : dssonguyen){
 		            System.out.print(x + " ");
 		        }
-		        
+
 		        int tam = 0;
 		        for ( Integer x : dssonguyen){
 		            if( x % 2 == 0 ) {
@@ -29,7 +29,7 @@ public class runMain {
 		        }
 		        System.out.println("\n");
 		        System.out.println("Co " + tam + " so chan trong mang ");
-		        // d. tppmgr cac phan tu
+		     
 		        int temp = 0;
 		        for ( Integer x : dssonguyen){
 		            temp += x;
