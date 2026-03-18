@@ -15,7 +15,7 @@ public class Bai2_QuyDoiTienTe {
 
         System.out.print("Nhap so tien: ");
         int soTien = sc.nextInt();   
-//
+
         int vnd;
 
         if (choice == 1) {
