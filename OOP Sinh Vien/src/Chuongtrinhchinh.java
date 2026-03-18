@@ -6,6 +6,6 @@ public class Chuongtrinhchinh {
         sv1.mssv="66112233";
         sv1.ten="Nguyễn Lê";
         sv1.tuoi=18;
-        sv1.hocBai("Lập trình Java");
+        sv1.hocBai("Lập trình Java"); //
     }
 }
