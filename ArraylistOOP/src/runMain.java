@@ -34,6 +34,7 @@ public class runMain {
 		        for ( Integer x : dssonguyen){
 		            temp += x;
 		        }
+				//
 		        System.out.println("Tong cac phan tu trong mang la: " + temp + " ");
 		    }
 
