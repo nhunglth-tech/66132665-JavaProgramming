@@ -13,7 +13,7 @@ public class runMain {
 		            System.out.print("Moi ban nhap phan tu thu " + i + ": ");
 		            Integer tam = banphim.nextInt();
 		            dssonguyen.add(tam);
-
+//
 		        }
 
 		        System.out.print("Danh sach so nguyen la: ");
@@ -29,7 +29,7 @@ public class runMain {
 		        }
 		        System.out.println("\n");
 		        System.out.println("Co " + tam + " so chan trong mang ");
-		     
+
 		        int temp = 0;
 		        for ( Integer x : dssonguyen){
 		            temp += x;
