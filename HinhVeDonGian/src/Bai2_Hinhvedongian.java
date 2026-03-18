@@ -6,7 +6,7 @@ public class Bai2_Hinhvedongian {
 		System.out.println("   ***	");
 		System.out.println("  *****	");
 		System.out.println(" *******");
-
+//
 	}
 
 }
