@@ -10,7 +10,7 @@ public class TaiKhoanNganHang {
         this.soDu = 0.0;
     }
 
-    // Constructor 2: Có số tài khoản và tên chủ /
+    // Constructor 2: Có số tài khoản và tên chủ 
     public TaiKhoanNganHang(String soTaiKhoan, String tenChuTaiKhoan) {
         this.soTaiKhoan = soTaiKhoan;
         this.tenChuTaiKhoan = tenChuTaiKhoan;
