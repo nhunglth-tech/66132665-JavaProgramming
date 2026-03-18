@@ -40,7 +40,7 @@ public class ArrayListCoBan {
 		String removedByIndex = danhSachTen.remove(0);
 		System.out.println("Đã xóa (theo index 0): " + removedByIndex);
 
-		// Xóa theo đối tượng 
+		// Xóa theo đối tượng
 		boolean removedByObject = danhSachTen.remove("Lê Văn C");
 		System.out.println("Xóa 'Lê Văn C' thành công? " + removedByObject);
 
