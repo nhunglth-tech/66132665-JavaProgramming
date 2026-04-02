@@ -1,4 +1,4 @@
-package vuongpq;
+package nhunglth;
 public class HocSinh {
     private String tenHS;
     private short tuoiHS;
